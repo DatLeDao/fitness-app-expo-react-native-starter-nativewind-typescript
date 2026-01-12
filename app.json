@@ -4,7 +4,10 @@
     "userInterfaceStyle": "automatic",
     "orientation": "default",
     "web": {
-      "output": "static"
+      "output": "server"
+    },
+    "experiments": {
+      "reactCanary": true
     },
     "plugins": [
       [
